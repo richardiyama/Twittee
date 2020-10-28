@@ -2,23 +2,23 @@
 cd server into server folder and run:npm install to install required packages
 Run: node server.js to start the server.
 
-#Database used
+# Database used
 Mysql(PhpMyadmin)
 
-#ORM used
+# ORM used
 Sequelize
 
-#End point
-#Register new user
+# End points
+# Register new user
 Post: localhost:8080/api/v1/signup
-#Signin
+# Signin
 Get: localhost:8080/api/v1/signin
 
-#Create Post
+# Create Post
 Post: localhost:8080/api/v1/twits
 
-#Delete Post
+# Delete Post
 Delete: localhost:8080/api/v1/deleteTwit
 
-#Comment on post
+# Comment on post
 Post: localhost:8080/api/v1/comments

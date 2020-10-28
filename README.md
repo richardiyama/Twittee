@@ -12,7 +12,7 @@ Sequelize
 # Register new user
 Post: localhost:8080/api/v1/signup
 # Signin
-Get: localhost:8080/api/v1/signin
+Post: localhost:8080/api/v1/signin
 
 # Create Post
 Post: localhost:8080/api/v1/twits

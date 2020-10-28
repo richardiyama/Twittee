@@ -18,7 +18,7 @@ Get: localhost:8080/api/v1/signin
 Post: localhost:8080/api/v1/twits
 
 # Delete Post
-Delete: localhost:8080/api/v1/deleteTwit
+Delete: localhost:8080/api/v1/:id
 
 # Comment on post
 Post: localhost:8080/api/v1/comments

@@ -1,5 +1,5 @@
 # Twittee
-cd server into server folder and run:npm install to install required packages
+run:npm install to install required packages
 Run: node server.js to start the server.
 
 # Database used
